@@ -1,0 +1,143 @@
+{
+  "entities": {
+    "BreadcrumbList": [
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "entity_type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jcrew.com/",
+              "name": "Home"
+            },
+            "position": 1
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jcrew.com/mens",
+              "name": "men"
+            },
+            "position": 2
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@id": "https://www.jcrew.com/plp/mens/categories/clothing/tshirts-and-polos",
+              "name": "t-shirts & polos"
+            },
+            "position": 3
+          }
+        ]
+      }
+    ],
+    "Product": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "bestRating": 5,
+          "ratingCount": 6,
+          "ratingValue": 5,
+          "worstRating": 1
+        },
+        "brand": "J.Crew",
+        "category": "men",
+        "color": "UNION BLUE",
+        "description": "Washed piqu&eacute; button-down shirt for men - Find the best selection available in-stores and online at J.Crew.",
+        "entity_type": "Product",
+        "image": [
+          "https://www.jcrew.com/s7-img-facade/CV409_BL8405",
+          "https://www.jcrew.com/s7-img-facade/CV409_BL8405_m",
+          "https://www.jcrew.com/s7-img-facade/CV409_BL8405_d1",
+          "https://www.jcrew.com/s7-img-facade/CV409_BL8405_d2",
+          "https://www.jcrew.com/s7-img-facade/CV409_BL8405_d8",
+          "https://www.jcrew.com/s7-img-facade/CV409_BL8405_d12"
+        ],
+        "isVariantOf": {
+          "@type": "ProductGroup",
+          "description": "Washed piqu&eacute; button-down shirt for men - Find the best selection available in-stores and online at J.Crew.",
+          "name": "Washed piqu&eacute; button-down shirt",
+          "productGroupId": "CV409",
+          "productID": "CV409",
+          "sku": "CV409",
+          "url": "https://www.jcrew.com/p/mens/categories/clothing/tshirts-and-polos/t-shirts/washed-piqueacute-button-down-shirt/CV409?"
+        },
+        "keywords": "",
+        "name": "Washed piqu&eacute; button-down shirt",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": 128,
+          "priceCurrency": "USD",
+          "url": "https://www.jcrew.com/p/mens/categories/clothing/tshirts-and-polos/t-shirts/washed-piqueacute-button-down-shirt/CV409?display=standard&colorProductCode=CV409&color_name=union blue"
+        },
+        "productID": "CV409-BL8405",
+        "review": [
+          {
+            "@id": "#review-280049723",
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "AAGS"
+            },
+            "datePublished": "2026-09-12T11:34:16.000+00:00",
+            "name": "Great staple",
+            "reviewBody": "Great shirt and very comfortable",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": 5,
+              "ratingValue": 5,
+              "worstRating": 1
+            }
+          },
+          {
+            "@id": "#review-279777429",
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "rkr234"
+            },
+            "datePublished": "2026-09-09T17:10:42.000+00:00",
+            "name": "Unique and great",
+            "reviewBody": "Wasn’t sure about this but wore and loved.\nNice drape.",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": 5,
+              "ratingValue": 5,
+              "worstRating": 1
+            }
+          },
+          {
+            "@id": "#review-279544723",
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Bert1203"
+            },
+            "datePublished": "2026-09-01T14:36:16.000+00:00",
+            "name": "Great fit and style",
+            "reviewBody": "This shirt fits great and the style is just what I was looking for.  Feel like your favorite polo shirt but a button down.  Really a great design.",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": 5,
+              "ratingValue": 5,
+              "worstRating": 1
+            }
+          }
+        ],
+        "sku": "CV409-BL8405",
+        "url": "https://www.jcrew.com/p/mens/categories/clothing/tshirts-and-polos/t-shirts/washed-piqueacute-button-down-shirt/CV409?display=standard&colorProductCode=CV409&color_name=union blue"
+      }
+    ]
+  },
+  "total_entities_count": 2,
+  "entities_count": {
+    "BreadcrumbList": 1,
+    "Product": 1
+  },
+  "metrics": {}
+}
